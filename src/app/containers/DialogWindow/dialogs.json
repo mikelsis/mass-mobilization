@@ -1,0 +1,325 @@
+{
+  "3692014019": {
+    "background": "ukraine.jpg",
+    "dialog": {
+      "1": { "id": "1", "role": "user", "text": "Hi there!", "answers": [2] },
+      "2": {
+        "id": "2",
+        "role": "character",
+        "text": "Hello!</br>You look a bit <b style='color:#980000ad'>confused</b>. Is it your first time here, in Cherkasy?",
+        "answers": [3, 4, 5]
+      },
+      "3": {
+        "id": "3",
+        "role": "user",
+        "text": "Actually, yes!",
+        "answers": [6]
+      },
+      "4": {
+        "id": "4",
+        "role": "user",
+        "text": "I've been in Ukraine before, but not in Cherkasy.",
+        "answers": [6]
+      },
+      "5": {
+        "id": "5",
+        "role": "user",
+        "text": "I've been here before, actually!",
+        "answers": [7]
+      },
+      "6": {
+        "id": "6",
+        "role": "character",
+        "text": "I see. Well, then I am going to tell you a story about an even that happened in <b style='color:#980000ad'>Cherkasy</b> in <b style='color:#980000ad'>2014.</b>",
+        "answers": [9]
+      },
+      "7": {
+        "id": "7",
+        "role": "character",
+        "text": "Oh! That's wonderful",
+        "answers": [8]
+      },
+      "8": {
+        "id": "8",
+        "role": "character",
+        "text": "In that case, maybe you already hear a story about this event, but I want to tell you a little bit more about what happened in <b style='color:#980000ad'>Cherkasy</b> in <b style='color:#980000ad'>2014.</b>",
+        "answers": [9]
+      },
+      "9": {
+        "id": "9",
+        "role": "user",
+        "text": "I'm listening.",
+        "answers": [10]
+      },
+      "10": {
+        "id": "10",
+        "role": "character",
+        "text": "You have to note one thing, thought.",
+        "answers": [11]
+      },
+      "11": {
+        "id": "11",
+        "role": "user",
+        "text": "Yes?",
+        "answers": [12]
+      },
+      "12": {
+        "id": "12",
+        "role": "character",
+        "text": "There will be many <b style='color:#980000ad'>dead</b> today.",
+        "answers": [13]
+      },
+      "13": {
+        "id": "13",
+        "role": "user",
+        "text": "Oh.",
+        "answers": [14]
+      },
+      "14": {
+        "id": "14",
+        "role": "character",
+        "text": "You probably know there was a mass <b style='color:#980000ad'>mobilization</b> event all over Ukraine in 2014.",
+        "answers": [15]
+      },
+      "15": {
+        "id": "15",
+        "role": "user",
+        "text": "Yes.",
+        "answers": [16]
+      },
+      "16": {
+        "id": "16",
+        "role": "character",
+        "text": "Well, I was amidst of it. I saw it with <b style='color:#980000ad'>my own eyes.</b>",
+        "answers": [17]
+      },
+      "17": {
+        "id": "17",
+        "role": "user",
+        "text": "W-what did you see?",
+        "answers": [18]
+      },
+      "18": {
+        "id": "18",
+        "role": "character",
+        "text": "<b style='color:#980000ad'>Many thing.</b>",
+        "answers": [19]
+      },
+      "19": {
+        "id": "19",
+        "role": "character",
+        "text": "I saw <b style='color:#980000ad'>victims</b> on stretchers being carried down a stairway near the Ukraina Hotel, for example. You can read about it in the newspaper articles <a target='_blank' href='https://www.nytimes.com/2014/02/21/world/europe/ukraine.html'>here.</a>",
+        "answers": [20]
+      },
+      "20": {
+        "id": "20",
+        "role": "user",
+        "text": "That's horrible!",
+        "answers": [21]
+      },
+      "21": {
+        "id": "21",
+        "role": "character",
+        "text": "It is, but not many people bother asking how I experienced it. Some do, but not many.",
+        "answers": [22]
+      },
+      "22": {
+        "id": "22",
+        "role": "user",
+        "text": "C-can you tell me more?",
+        "answers": [23]
+      },
+      "23": {
+        "id": "23",
+        "role": "character",
+        "text": "If you'd like!",
+        "answers": [24]
+      },
+      "24": {
+        "id": "24",
+        "role": "character",
+        "text": "Many people that participated in the protest felt that \"the whole country is mourning,\" because it paid a huge price for <b style='color:#980000ad'>freedom</b>.",
+        "answers": [25]
+      },
+      "25": {
+        "id": "25",
+        "role": "user",
+        "text": "Judging by what you're saying, they really did.",
+        "answers": [26]
+      },
+      "26": {
+        "id": "26",
+        "role": "character",
+        "text": "Yes. <b style='color:#980000ad'>Thousands</b> of people participated in the protest. And hundreds and hundreds were killed. It wasn't a nice sight.",
+        "answers": [27]
+      },
+      "27": {
+        "id": "27",
+        "role": "user",
+        "text": "I can imagine.",
+        "answers": [28]
+      },
+      "28": {
+        "id": "28",
+        "role": "character",
+        "text": "But I'll let you <b style='color:#980000ad'>explore</b> a bit more on your own. There are many more stories to discover!"
+      }
+    }
+  },
+  "2001990024": {
+    "background": "manchester.png",
+    "dialog": {
+      "1": {
+        "id": "1",
+        "role": "character",
+        "text": "Hiya, good to have you here in <b style='color:#980000ad'>Manchester!</b>",
+        "answers": [2]
+      },
+      "2": {
+        "id": "2",
+        "role": "user",
+        "text": "Thanks, glad to be here!",
+        "answers": [3]
+      },
+      "3": {
+        "id": "3",
+        "role": "character",
+        "text": "Do you know anything about the city already?",
+        "answers": [4]
+      },
+      "4": {
+        "id": "4",
+        "role": "user",
+        "text": "Just the basics!",
+        "answers": [5]
+      },
+      "5": {
+        "id": "5",
+        "role": "character",
+        "text": "Ever heard of the <b style='color:#980000ad'>Strangeways Prison</b>?",
+        "answers": [6]
+      },
+      "6": {
+        "id": "6",
+        "role": "user",
+        "text": "Not that I can remember.",
+        "answers": [7]
+      },
+      "7": { "id": "7", "role": "character", "text": "Aye.", "answers": [8] },
+      "8": {
+        "id": "8",
+        "role": "character",
+        "text": "Then you probably never heard of the <b style='color:#980000ad'>Strangeways Prison riots</b>.",
+        "answers": [9]
+      },
+      "9": { "id": "9", "role": "user", "text": "Never!", "answers": [10] },
+      "10": {
+        "id": "10",
+        "role": "character",
+        "text": "That's a shame. Let me tell you a few things about it.",
+        "answers": [11]
+      },
+      "11": {
+        "id": "11",
+        "role": "user",
+        "text": "Go ahead!",
+        "answers": [12]
+      },
+      "12": {
+        "id": "12",
+        "role": "character",
+        "text": "You see, I was one of the rioters back then, in <b style='color:#980000ad'>1990</b>.",
+        "answers": [13]
+      },
+      "13": {
+        "id": "13",
+        "role": "character",
+        "text": "The prisons, they were an <b style='color:#980000ad'>awful</b> place: three men to a single cell",
+        "answers": [14]
+      },
+      "14": {
+        "id": "14",
+        "role": "character",
+        "text": "Bucket for a toilet",
+        "answers": [15]
+      },
+      "15": {
+        "id": "15",
+        "role": "character",
+        "text": "showers, exercise, and clean clothes all hard to come by",
+        "answers": [16]
+      },
+      "16": {
+        "id": "16",
+        "role": "character",
+        "text": "<b style='color:#980000ad'>drunk</b> and <b style='color:#980000ad'>abusive</b> guards ever ready to ignore complaints",
+        "answers": [17]
+      },
+      "17": {
+        "id": "17",
+        "role": "character",
+        "text": "<b style='color:#980000ad'>violence<b> from both inmates and staff",
+        "answers": [18]
+      },
+      "18": {
+        "id": "18",
+        "role": "user",
+        "text": "Oh God, that sounds awful!",
+        "answers": [19]
+      },
+      "19": {
+        "id": "19",
+        "role": "character",
+        "text": "You're right there.",
+        "answers": [20]
+      },
+      "20": {
+        "id": "20",
+        "role": "character",
+        "text": "YWe've had it with the government and their ways of treating the prisoners back then. So, we decided to do something about it.",
+        "answers": [21]
+      },
+      "21": {
+        "id": "21",
+        "role": "user",
+        "text": "Was it that bad?",
+        "answers": [22]
+      },
+      "22": {
+        "id": "22",
+        "role": "character",
+        "text": "Aye.",
+        "answers": [23]
+      },
+      "23": {
+        "id": "23",
+        "role": "user",
+        "text": "I had no clue!",
+        "answers": [24]
+      },
+      "24": {
+        "id": "24",
+        "role": "character",
+        "text": "Can't blame you. Most people have none. That's why we gather these stories here. Thought that people should know how it was for us.",
+        "answers": [25]
+      },
+      "25": {
+        "id": "25",
+        "role": "user",
+        "text": "I understand.",
+        "answers": [26]
+      },
+      "26": {
+        "id": "26",
+        "role": "character",
+        "text": "But I'll let you go now. I could rant about this over and over again. Have a look at all the other stuff around here.",
+        "answers": [27]
+      },
+      "27": {
+        "id": "27",
+        "role": "user",
+        "text": "Will do, thank you!"
+      }
+    }
+  }
+}

@@ -1,5 +1,7 @@
 import { GithubRepoFormState } from 'app/containers/GithubRepoForm/types';
 import { ThemeState } from 'styles/theme/types';
+import { ActivityMapState } from 'app/containers/ActivityMap/types';
+import { DialogWindowState } from 'app/containers/DialogWindow/types';
 // [IMPORT NEW CONTAINERSTATE ABOVE] < Needed for generating containers seamlessly
 
 /* 
@@ -11,5 +13,7 @@ import { ThemeState } from 'styles/theme/types';
 export interface RootState {
   theme?: ThemeState;
   githubRepoForm?: GithubRepoFormState;
+  activityMap?: ActivityMapState;
+  dialogWindow?: DialogWindowState;
   // [INSERT NEW REDUCER KEY ABOVE] < Needed for generating containers seamlessly
 }

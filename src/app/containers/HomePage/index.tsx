@@ -4,11 +4,13 @@ import { NavBar } from '../NavBar';
 import { Masthead } from './Masthead';
 import { Features } from './Features';
 import { PageWrapper } from 'app/components/PageWrapper';
+import { ActivityMap } from '../ActivityMap';
 
 export function HomePage() {
   return (
     <>
-      <Helmet>
+      <ActivityMap />
+      {/* <Helmet>
         <title>Home Page</title>
         <meta
           name="description"
@@ -19,7 +21,7 @@ export function HomePage() {
       <PageWrapper>
         <Masthead />
         <Features />
-      </PageWrapper>
+      </PageWrapper> */}
     </>
   );
 }
